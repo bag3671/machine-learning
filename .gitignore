@@ -20,3 +20,6 @@ home/report.txt
 home/가구원수별 가구수(구별)2016_2018.txt
 home/가구원수별 가구수(구별).txt
 home/data/
+01.introduction/input/train.csv
+01.introduction/input/gender_submission.csv
+01.introduction/input/test.csv
