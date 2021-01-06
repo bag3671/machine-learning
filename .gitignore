@@ -23,3 +23,4 @@ home/data/
 01.introduction/input/train.csv
 01.introduction/input/gender_submission.csv
 01.introduction/input/test.csv
+02.Evalution/diabetes.csv
