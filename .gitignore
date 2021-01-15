@@ -23,3 +23,5 @@ home/data/
 01.introduction/input/
 02.Evalution/diabetes.csv
 03.classification/UCI HAR Dataset/
+model/
+00.data/
